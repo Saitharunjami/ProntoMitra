@@ -2,7 +2,7 @@
 
 # Pronto Mitra: The Main Dashboard
 
-![Pronto Mitra](https://github.com/Saitharunjami/ProntoMitra/blob/main/assets/logo_1_1.png,width=150)
+![Pronto Mitra](https://github.com/Saitharunjami/ProntoMitra/blob/main/assets/logo_1_1.png)
 
 Welcome to **Pronto Mitra**, the comprehensive dashboard designed to enhance document management and predictive capabilities through advanced machine learning techniques. This project integrates two powerful models: **Pronto Genie** and **Pronto Viz**, providing insightful predictions and data analysis to streamline processes and improve efficiency.
 
