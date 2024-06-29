@@ -88,6 +88,15 @@ streamlit run app.py
 1. **Pronto Genie**: Upload historical document data to get predictions on future document inflow.
 2. **Pronto Viz**: Upload employee processing data to analyze processing times and optimize resource allocation.
 
+## Screenshots
+
+<img src="https://github.com/Saitharunjami/ProntoMitra/blob/main/assets/Main%20Dashboard.png" alt="Pronto Mitra" width="250" />
+
+<img src="https://github.com/Saitharunjami/ProntoMitra/blob/main/assets/Prontogeniedashboard.png" alt="Pronto Genie" width="250" />
+
+<img src="https://github.com/Saitharunjami/ProntoMitra/blob/main/assets/ProntoVizdashboard.png" alt="Pronto Viz" width="250" />
+
+
 ## Acknowledgements
 
 We are deeply thankful to Mr. G. Kartik, Head of the Corporate Centre, PT&D IC, L&T Construction, for his exceptional guidance and support throughout the duration of our project. His insights and expertise have been instrumental in the successful completion of our work. His encouragement and constructive feedback have greatly enhanced our learning experience.
