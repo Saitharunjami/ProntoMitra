@@ -1,36 +1,98 @@
-# ProntoMitra
 
 
-Pronto Mitra: The Main Dashboard
-Pronto Mitra serves as the central dashboard in our project, integrating two key models to enhance our document management and predictive capabilities. The dashboard is designed to provide comprehensive insights and predictions to streamline our processes and improve efficiency.
-1. Pronto Genie (Prediction Model)
-Pronto Genie is the prediction model within Pronto Mitra, focused on forecasting document counts based on various input parameters. By leveraging machine learning techniques, Pronto Genie enables us to anticipate the number of documents that will be received in future periods, thus facilitating better planning and resource allocation.
-•	Key Features:
-o	Data Input: Users can upload data files containing historical document records.
-o	Data Processing: The model preprocesses the data, extracting relevant features such as date, job code, and module.
-o	Model Training: Pronto Genie utilizes Ridge regression with polynomial features, selected for its ability to capture non-linear relationships and prevent overfitting.
-o	Prediction: The model predicts future document counts for specified months, providing day-wise and module-wise breakdowns.
-o	Visualization: The predictions are visualized through graphs and tables, offering a clear view of the expected document inflow.
-2. Pronto Viz (Data Analysis Tool)
-Pronto Viz is the data analysis Tool within Pronto Mitra, designed to analyze the time taken by employees to process documents. This tool plays a crucial role in document allocation and resource management, ensuring that tasks are distributed efficiently and employee performance is monitored effectively.
-Key Features:
-•	Data Input: Users can upload data files detailing employee processing times and document handling.
-•	Data Analysis: The tool analyzes the time taken for each document, identifying patterns and bottlenecks in the process.
-•	Resource Management: Based on the analysis, Pronto Viz provides insights into optimal document allocation, ensuring that workload is balanced among employees.
-•	Performance Monitoring: The tool helps track employee performance over time, identifying areas for improvement and training needs.
-•	Visualization: Results are presented through intuitive charts and dashboards, highlighting key metrics and performance indicators.
+# Pronto Mitra: The Main Dashboard
+
+![Pronto Mitra](https://your-image-link.png)
+
+Welcome to **Pronto Mitra**, the comprehensive dashboard designed to enhance document management and predictive capabilities through advanced machine learning techniques. This project integrates two powerful models: **Pronto Genie** and **Pronto Viz**, providing insightful predictions and data analysis to streamline processes and improve efficiency.
+
+## Table of Contents
+
+- [Introduction](#introduction)
+- [Pronto Genie (Prediction Model)](#pronto-genie-prediction-model)
+- [Pronto Viz (Data Analysis Tool)](#pronto-viz-data-analysis-tool)
+- [Integration and Benefits](#integration-and-benefits)
+- [Getting Started](#getting-started)
+- [Usage](#usage)
+- [Acknowledgements](#acknowledgements)
+- [License](#license)
+
+## Introduction
+
+Pronto Mitra serves as the central dashboard in our project, integrating two key models to enhance our document management and predictive capabilities. The dashboard provides comprehensive insights and predictions to streamline processes and improve efficiency.
+
+## Pronto Genie (Prediction Model)
+
+Pronto Genie is the prediction model within Pronto Mitra, focused on forecasting document counts based on various input parameters. By leveraging machine learning techniques, Pronto Genie enables anticipation of document inflow, facilitating better planning and resource allocation.
+
+### Key Features:
+- **Data Input**: Upload historical document records.
+- **Data Processing**: Preprocess data, extracting relevant features like date, job code, and module.
+- **Model Training**: Utilize Ridge regression with polynomial features for capturing non-linear relationships and preventing overfitting.
+- **Prediction**: Predict future document counts with day-wise and module-wise breakdowns.
+- **Visualization**: Visualize predictions through graphs and tables.
+
+## Pronto Viz (Data Analysis Tool)
+
+Pronto Viz is the data analysis tool within Pronto Mitra, designed to analyze the time taken by employees to process documents. This tool plays a crucial role in document allocation and resource management.
+
+### Key Features:
+- **Data Input**: Upload data detailing employee processing times and document handling.
+- **Data Analysis**: Analyze processing times, identifying patterns and bottlenecks.
+- **Resource Management**: Provide insights into optimal document allocation.
+- **Performance Monitoring**: Track employee performance over time.
+- **Visualization**: Present results through intuitive charts and dashboards.
+
+## Integration and Benefits
+
+By integrating Pronto Genie and Pronto Viz within the Pronto Mitra dashboard, we achieve a holistic view of the document management process. The predictive capabilities of Pronto Genie, combined with the analytical insights of Pronto Viz, empower us to:
+- **Optimize Resource Allocation**: Ensure documents are assigned to the right employees at the right time.
+- **Improve Efficiency**: Anticipate document inflow and prepare accordingly.
+- **Enhance Performance Monitoring**: Continuously track and improve employee performance.
+- **Streamline Operations**: Achieve a smoother and more efficient document management process.
+
+Pronto Mitra stands as a powerful tool, driving data-driven decisions and fostering a more efficient work environment.
+
+[**Access Pronto Mitra**](https://prontomitra.streamlit.app/)
+
+## Getting Started
+
+To get a local copy up and running, follow these simple steps.
+
+### Prerequisites
+
+Ensure you have the following installed:
+- Python 3.x
+- Streamlit
+- Pandas
+- Matplotlib
+
+### Installation
+
+1. Clone the repo:
+    ```sh
+    git clone https://github.com/your-username/pronto-mitra.git
+    ```
+2. Install dependencies:
+    ```sh
+    pip install -r requirements.txt
+    ```
+
+### Running the App
+
+```sh
+streamlit run app.py
+```
+
+## Usage
+
+1. **Pronto Genie**: Upload historical document data to get predictions on future document inflow.
+2. **Pronto Viz**: Upload employee processing data to analyze processing times and optimize resource allocation.
+
+## Acknowledgements
+
+We are deeply thankful to Mr. G. Kartik, Head of the Corporate Centre, PT&D IC, L&T Construction, for his exceptional guidance and support throughout the duration of our project. His insights and expertise have been instrumental in the successful completion of our work. His encouragement and constructive feedback have greatly enhanced our learning experience.
+
+Our sincere thanks also go to Mr. Sahil Kumar Singh, who guided us for the entire project, Mr. Sudeesh, and Mr. Mahanraj, who helped us with data verifications and staff at L&T Construction who have supported and guided us during this internship. Their willingness to share their knowledge and assist us in various aspects of the project has been crucial to our success.
 
 
-
-
-Integration and Benefits
-By integrating Pronto Genie and Pronto Viz within the Pronto Mitra dashboard, we achieve a holistic view of our document management process. The predictive capabilities of Pronto Genie, combined with the analytical insights of Pronto Viz, empower us to:
-•	Optimize Resource Allocation: Ensure that documents are assigned to the right employees at the right time.
-•	Improve Efficiency: Anticipate document inflow and prepare accordingly, reducing processing delays.
-•	Enhance Performance Monitoring: Continuously track and improve employee performance based on detailed analysis.
-•	Streamline Operations: Achieve a smoother and more efficient document management process, ultimately leading to better overall productivity.
-Pronto Mitra stands as a powerful tool in our arsenal, driving data-driven decisions and fostering a more efficient work environment.
-
-
-Here is the link to access Pronto Mitra:
-https://prontomitra.streamlit.app/
