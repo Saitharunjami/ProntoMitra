@@ -103,4 +103,8 @@ We are deeply thankful to Mr. G. Kartik, Head of the Corporate Centre, PT&D IC, 
 
 Our sincere thanks also go to Mr. Sahil Kumar Singh, who guided us for the entire project, Mr. Sudeesh B, and Mr. Mahanaraj Paul, who helped us with the data verifications and staff at L&T Construction who have supported and guided us during this internship. Their willingness to share their knowledge and assist us in various aspects of the project has been crucial to our success.
 
+## License
+Copyright (c) 2024 Jami Sai Tharun and Habeeb Ur Rahman
+
+
 
