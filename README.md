@@ -80,7 +80,7 @@ Ensure you have the following installed:
 ### Running the App
 
 ```sh
-streamlit run app.py
+streamlit run Home.py
 ```
 
 ## Usage
@@ -99,12 +99,12 @@ streamlit run app.py
 
 ## Acknowledgements
 
-We are deeply thankful to Mr. G. Kartik, Head of the Corporate Centre, PT&D IC, L&T Construction, for his exceptional guidance and support throughout the duration of our project. His insights and expertise have been instrumental in the successful completion of our work. His encouragement and constructive feedback have greatly enhanced our learning experience.
+We are deeply thankful to **Mr. G. Kartik**, Head of the Corporate Centre, PT&D IC, L&T Construction, for his exceptional guidance and support throughout the duration of our project. His insights and expertise have been instrumental in the successful completion of our work. His encouragement and constructive feedback have greatly enhanced our learning experience.
 
-Our sincere thanks also go to Mr. Sahil Kumar Singh, who guided us for the entire project, provided invaluable guidance throughout the entire project, offering crucial assistance whenever we encountered challenges. Mr. Sudeesh B, and Mr. Mahanaraj Paul, who help use with the data, instrumental in managing the data, handling Excel operations and verifying results, ensuring the integrity and accuracy of our work. Sincere thanks to staff at L&T Construction who have supported and guided us during this internship. Their willingness to share their knowledge and assist us in various aspects of the project has been crucial to our success.
+Our sincere thanks also go to **Mr. Sahil Kumar Singh**, who guided us for the entire project, provided invaluable guidance throughout the entire project, offering crucial assistance whenever we encountered challenges. **Mr. Sudeesh B**, and **Mr. Mahanaraj Paul**, who help use with the data, instrumental in managing the data, handling Excel operations and verifying results, ensuring the integrity and accuracy of our work. Sincere thanks to staff at L&T Construction who have supported and guided us during this internship. Their willingness to share their knowledge and assist us in various aspects of the project has been crucial to our success.
 
 ## License
-Copyright (c) 2024 Jami Sai Tharun and Habeeb Ur Rahman
+Copyright (c) 2024 **Jami Sai Tharun** and **Habeeb Ur Rahman**
 
 
 
